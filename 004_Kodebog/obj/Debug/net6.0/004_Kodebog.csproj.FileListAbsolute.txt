@@ -1,0 +1,15 @@
+C:\VSC_Pro_B\004_Kodebog\bin\Debug\net6.0\004_Kodebog.exe
+C:\VSC_Pro_B\004_Kodebog\bin\Debug\net6.0\004_Kodebog.deps.json
+C:\VSC_Pro_B\004_Kodebog\bin\Debug\net6.0\004_Kodebog.runtimeconfig.json
+C:\VSC_Pro_B\004_Kodebog\bin\Debug\net6.0\004_Kodebog.dll
+C:\VSC_Pro_B\004_Kodebog\bin\Debug\net6.0\004_Kodebog.pdb
+C:\VSC_Pro_B\004_Kodebog\obj\Debug\net6.0\004_Kodebog.csproj.AssemblyReference.cache
+C:\VSC_Pro_B\004_Kodebog\obj\Debug\net6.0\004_Kodebog.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC_Pro_B\004_Kodebog\obj\Debug\net6.0\004_Kodebog.AssemblyInfoInputs.cache
+C:\VSC_Pro_B\004_Kodebog\obj\Debug\net6.0\004_Kodebog.AssemblyInfo.cs
+C:\VSC_Pro_B\004_Kodebog\obj\Debug\net6.0\004_Kodebog.csproj.CoreCompileInputs.cache
+C:\VSC_Pro_B\004_Kodebog\obj\Debug\net6.0\004_Kodebog.dll
+C:\VSC_Pro_B\004_Kodebog\obj\Debug\net6.0\refint\004_Kodebog.dll
+C:\VSC_Pro_B\004_Kodebog\obj\Debug\net6.0\004_Kodebog.pdb
+C:\VSC_Pro_B\004_Kodebog\obj\Debug\net6.0\004_Kodebog.genruntimeconfig.cache
+C:\VSC_Pro_B\004_Kodebog\obj\Debug\net6.0\ref\004_Kodebog.dll

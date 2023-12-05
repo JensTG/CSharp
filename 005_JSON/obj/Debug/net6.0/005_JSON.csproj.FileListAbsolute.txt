@@ -1,0 +1,15 @@
+C:\VSC_Pro_B\005_JSON\bin\Debug\net6.0\005_JSON.exe
+C:\VSC_Pro_B\005_JSON\bin\Debug\net6.0\005_JSON.deps.json
+C:\VSC_Pro_B\005_JSON\bin\Debug\net6.0\005_JSON.runtimeconfig.json
+C:\VSC_Pro_B\005_JSON\bin\Debug\net6.0\005_JSON.dll
+C:\VSC_Pro_B\005_JSON\bin\Debug\net6.0\005_JSON.pdb
+C:\VSC_Pro_B\005_JSON\obj\Debug\net6.0\005_JSON.csproj.AssemblyReference.cache
+C:\VSC_Pro_B\005_JSON\obj\Debug\net6.0\005_JSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC_Pro_B\005_JSON\obj\Debug\net6.0\005_JSON.AssemblyInfoInputs.cache
+C:\VSC_Pro_B\005_JSON\obj\Debug\net6.0\005_JSON.AssemblyInfo.cs
+C:\VSC_Pro_B\005_JSON\obj\Debug\net6.0\005_JSON.csproj.CoreCompileInputs.cache
+C:\VSC_Pro_B\005_JSON\obj\Debug\net6.0\005_JSON.dll
+C:\VSC_Pro_B\005_JSON\obj\Debug\net6.0\refint\005_JSON.dll
+C:\VSC_Pro_B\005_JSON\obj\Debug\net6.0\005_JSON.pdb
+C:\VSC_Pro_B\005_JSON\obj\Debug\net6.0\005_JSON.genruntimeconfig.cache
+C:\VSC_Pro_B\005_JSON\obj\Debug\net6.0\ref\005_JSON.dll

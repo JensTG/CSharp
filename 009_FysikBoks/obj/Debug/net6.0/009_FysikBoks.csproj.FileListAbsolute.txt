@@ -1,0 +1,15 @@
+C:\VSC_Pro_B\009_FysikBoks\bin\Debug\net6.0\009_FysikBoks.exe
+C:\VSC_Pro_B\009_FysikBoks\bin\Debug\net6.0\009_FysikBoks.deps.json
+C:\VSC_Pro_B\009_FysikBoks\bin\Debug\net6.0\009_FysikBoks.runtimeconfig.json
+C:\VSC_Pro_B\009_FysikBoks\bin\Debug\net6.0\009_FysikBoks.dll
+C:\VSC_Pro_B\009_FysikBoks\bin\Debug\net6.0\009_FysikBoks.pdb
+C:\VSC_Pro_B\009_FysikBoks\obj\Debug\net6.0\009_FysikBoks.csproj.AssemblyReference.cache
+C:\VSC_Pro_B\009_FysikBoks\obj\Debug\net6.0\009_FysikBoks.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC_Pro_B\009_FysikBoks\obj\Debug\net6.0\009_FysikBoks.AssemblyInfoInputs.cache
+C:\VSC_Pro_B\009_FysikBoks\obj\Debug\net6.0\009_FysikBoks.AssemblyInfo.cs
+C:\VSC_Pro_B\009_FysikBoks\obj\Debug\net6.0\009_FysikBoks.csproj.CoreCompileInputs.cache
+C:\VSC_Pro_B\009_FysikBoks\obj\Debug\net6.0\009_FysikBoks.dll
+C:\VSC_Pro_B\009_FysikBoks\obj\Debug\net6.0\refint\009_FysikBoks.dll
+C:\VSC_Pro_B\009_FysikBoks\obj\Debug\net6.0\009_FysikBoks.pdb
+C:\VSC_Pro_B\009_FysikBoks\obj\Debug\net6.0\009_FysikBoks.genruntimeconfig.cache
+C:\VSC_Pro_B\009_FysikBoks\obj\Debug\net6.0\ref\009_FysikBoks.dll

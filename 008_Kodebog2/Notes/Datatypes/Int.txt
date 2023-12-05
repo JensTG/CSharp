@@ -1,0 +1,2 @@
+int er integer.
+Integer er hele tal.

@@ -1,0 +1,3 @@
+Float:
+
+En float er et tal med højest 

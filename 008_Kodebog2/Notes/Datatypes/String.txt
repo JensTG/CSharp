@@ -1,0 +1,2 @@
+String er tekst.
+Når noget er i "" er det en string.

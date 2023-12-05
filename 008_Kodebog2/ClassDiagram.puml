@@ -1,0 +1,49 @@
+@startuml
+
+class Program{
+    
+}
+
+class Book{
+    + String Title
+    + List<Chapter> Chapters
+    --
+    + Book(string title)
+    + Book(string title, List<Chapter> chapters)
+    --
+    + void Start()
+    + void PrintChapters()
+    + {static} void WriteLine(String text)
+    - Chapter GetChapter(String title)
+}
+
+class Chapter{
+    + String Title
+    + List<Page> Pages
+    --
+    + Chapter(string title)
+    + Chapter(string title, List<Page> pages)
+    --
+    + void Read()
+}
+
+Class Page{
+    + string Content
+    --
+    + Page(string content)
+    --
+    + void Read()
+}
+
+class MyNotes <<static>>{
+    + {static} string VariablesPageOne
+    + {static} string VariablesPageTwo
+}
+
+Book "1" *-- "1..*" Chapter
+Chapter "1" *-- "1..*" Page
+
+Program ..> Book
+Program ..> MyNotes
+
+@enduml

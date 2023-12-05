@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "002_BogoSort/1.0.0": {
+        "runtime": {
+          "002_BogoSort.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "002_BogoSort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

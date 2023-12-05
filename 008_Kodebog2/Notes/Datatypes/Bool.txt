@@ -1,0 +1,19 @@
+Bool:
+Boolean er den simpleste datatpe, som blot kan eksistere i 2 værdier: "true" eller "false"
+Booleans bliver oftest brugt i if-, switch- og while-statements, f.eks. i følgende kontekst:
+
+KODE
+// Her erklæres variablen:
+bool Kondition = true;
+
+// Og her benyttes den:
+if (Kondition != false) {
+    // Kode
+}
+KODE
+
+Test text
+
+KODE
+Codeblock
+KODE
