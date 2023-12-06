@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("011_VejlederMatrixTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9735c954efadbd9250dd46eb271e8a132e003512")]
 [assembly: System.Reflection.AssemblyProductAttribute("011_VejlederMatrixTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("011_VejlederMatrixTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

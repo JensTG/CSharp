@@ -1,0 +1,15 @@
+C:\VSC_PRO_B\CSharp\013_Basics\bin\Debug\net8.0\013_Basics.exe
+C:\VSC_PRO_B\CSharp\013_Basics\bin\Debug\net8.0\013_Basics.deps.json
+C:\VSC_PRO_B\CSharp\013_Basics\bin\Debug\net8.0\013_Basics.runtimeconfig.json
+C:\VSC_PRO_B\CSharp\013_Basics\bin\Debug\net8.0\013_Basics.dll
+C:\VSC_PRO_B\CSharp\013_Basics\bin\Debug\net8.0\013_Basics.pdb
+C:\VSC_PRO_B\CSharp\013_Basics\obj\Debug\net8.0\013_Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC_PRO_B\CSharp\013_Basics\obj\Debug\net8.0\013_Basics.AssemblyInfoInputs.cache
+C:\VSC_PRO_B\CSharp\013_Basics\obj\Debug\net8.0\013_Basics.AssemblyInfo.cs
+C:\VSC_PRO_B\CSharp\013_Basics\obj\Debug\net8.0\013_Basics.csproj.CoreCompileInputs.cache
+C:\VSC_PRO_B\CSharp\013_Basics\obj\Debug\net8.0\013_Basics.sourcelink.json
+C:\VSC_PRO_B\CSharp\013_Basics\obj\Debug\net8.0\013_Basics.dll
+C:\VSC_PRO_B\CSharp\013_Basics\obj\Debug\net8.0\refint\013_Basics.dll
+C:\VSC_PRO_B\CSharp\013_Basics\obj\Debug\net8.0\013_Basics.pdb
+C:\VSC_PRO_B\CSharp\013_Basics\obj\Debug\net8.0\013_Basics.genruntimeconfig.cache
+C:\VSC_PRO_B\CSharp\013_Basics\obj\Debug\net8.0\ref\013_Basics.dll
