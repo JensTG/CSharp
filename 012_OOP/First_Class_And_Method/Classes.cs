@@ -1,13 +1,35 @@
+using System.Security.Cryptography;
+
 namespace FirstClassAndMethod {
     public class Person {
-        string _name;
+        protected string _name;
+        protected int _age;
 
         public Person(string name) {
             _name = name;
         }
+        public void SetAge(int age) {
+            _age = age;
+        }
+        public string Greet() {
+            if(_age > 0) return "Hello! My name is " + _name + ". And I am " + _age.ToString() + " years old."; 
+            return "Hello! My name is " + _name;
+        }
+        public override string ToString() {
+            return _name + _age.ToString();
+        }
 
-        public string ToString() {
-            return _name;
+        ~Person() {
+            _name = String.Empty;
+        }
+    }
+
+    public class Student : Person {
+        public Student(string name) : base(name) {
+            _name = name;
+        }
+        public void Studying() {
+            Console.WriteLine("Im studying!");
         }
     }
 }

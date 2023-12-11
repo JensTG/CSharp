@@ -1,0 +1,15 @@
+C:\VSC_PRO_B\CSharp\012_OOP\First_Class_And_Method\bin\Debug\net8.0\First_Class_And_Method.exe
+C:\VSC_PRO_B\CSharp\012_OOP\First_Class_And_Method\bin\Debug\net8.0\First_Class_And_Method.deps.json
+C:\VSC_PRO_B\CSharp\012_OOP\First_Class_And_Method\bin\Debug\net8.0\First_Class_And_Method.runtimeconfig.json
+C:\VSC_PRO_B\CSharp\012_OOP\First_Class_And_Method\bin\Debug\net8.0\First_Class_And_Method.dll
+C:\VSC_PRO_B\CSharp\012_OOP\First_Class_And_Method\bin\Debug\net8.0\First_Class_And_Method.pdb
+C:\VSC_PRO_B\CSharp\012_OOP\First_Class_And_Method\obj\Debug\net8.0\First_Class_And_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC_PRO_B\CSharp\012_OOP\First_Class_And_Method\obj\Debug\net8.0\First_Class_And_Method.AssemblyInfoInputs.cache
+C:\VSC_PRO_B\CSharp\012_OOP\First_Class_And_Method\obj\Debug\net8.0\First_Class_And_Method.AssemblyInfo.cs
+C:\VSC_PRO_B\CSharp\012_OOP\First_Class_And_Method\obj\Debug\net8.0\First_Class_And_Method.csproj.CoreCompileInputs.cache
+C:\VSC_PRO_B\CSharp\012_OOP\First_Class_And_Method\obj\Debug\net8.0\First_Class_And_Method.sourcelink.json
+C:\VSC_PRO_B\CSharp\012_OOP\First_Class_And_Method\obj\Debug\net8.0\First_Class_And_Method.dll
+C:\VSC_PRO_B\CSharp\012_OOP\First_Class_And_Method\obj\Debug\net8.0\refint\First_Class_And_Method.dll
+C:\VSC_PRO_B\CSharp\012_OOP\First_Class_And_Method\obj\Debug\net8.0\First_Class_And_Method.pdb
+C:\VSC_PRO_B\CSharp\012_OOP\First_Class_And_Method\obj\Debug\net8.0\First_Class_And_Method.genruntimeconfig.cache
+C:\VSC_PRO_B\CSharp\012_OOP\First_Class_And_Method\obj\Debug\net8.0\ref\First_Class_And_Method.dll
