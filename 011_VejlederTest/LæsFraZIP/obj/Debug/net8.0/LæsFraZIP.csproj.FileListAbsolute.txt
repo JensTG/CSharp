@@ -1,0 +1,14 @@
+C:\VSC_PRO_B\C#\VejlederTest\LæsFraZIP\bin\Debug\net8.0\LæsFraZIP.exe
+C:\VSC_PRO_B\C#\VejlederTest\LæsFraZIP\bin\Debug\net8.0\LæsFraZIP.deps.json
+C:\VSC_PRO_B\C#\VejlederTest\LæsFraZIP\bin\Debug\net8.0\LæsFraZIP.runtimeconfig.json
+C:\VSC_PRO_B\C#\VejlederTest\LæsFraZIP\bin\Debug\net8.0\LæsFraZIP.dll
+C:\VSC_PRO_B\C#\VejlederTest\LæsFraZIP\bin\Debug\net8.0\LæsFraZIP.pdb
+C:\VSC_PRO_B\C#\VejlederTest\LæsFraZIP\obj\Debug\net8.0\LæsFraZIP.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC_PRO_B\C#\VejlederTest\LæsFraZIP\obj\Debug\net8.0\LæsFraZIP.AssemblyInfoInputs.cache
+C:\VSC_PRO_B\C#\VejlederTest\LæsFraZIP\obj\Debug\net8.0\LæsFraZIP.AssemblyInfo.cs
+C:\VSC_PRO_B\C#\VejlederTest\LæsFraZIP\obj\Debug\net8.0\LæsFraZIP.csproj.CoreCompileInputs.cache
+C:\VSC_PRO_B\C#\VejlederTest\LæsFraZIP\obj\Debug\net8.0\LæsFraZIP.dll
+C:\VSC_PRO_B\C#\VejlederTest\LæsFraZIP\obj\Debug\net8.0\refint\LæsFraZIP.dll
+C:\VSC_PRO_B\C#\VejlederTest\LæsFraZIP\obj\Debug\net8.0\LæsFraZIP.pdb
+C:\VSC_PRO_B\C#\VejlederTest\LæsFraZIP\obj\Debug\net8.0\LæsFraZIP.genruntimeconfig.cache
+C:\VSC_PRO_B\C#\VejlederTest\LæsFraZIP\obj\Debug\net8.0\ref\LæsFraZIP.dll
