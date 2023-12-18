@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LæsFraZIP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+230ec497a9fc2da3112960953a060ab4459ad1d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("LæsFraZIP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LæsFraZIP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
