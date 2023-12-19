@@ -10,6 +10,8 @@ string sheetID = "sheet2";
 FileStream zipArchive = new FileStream(zipPath, FileMode.OpenOrCreate);
 ZipArchive archive = new ZipArchive(zipArchive, ZipArchiveMode.Update);
 
+List<int> raw = new List<int>();
+List<bool> isText = new List<bool>();
 List<string> sharedStrings = new List<string>();
 
 foreach (ZipArchiveEntry entry in archive.Entries)
@@ -21,7 +23,13 @@ foreach (ZipArchiveEntry entry in archive.Entries)
         while (xr.Read())
         {
             string val = xr.Value;
-            if(val != string.Empty) Console.WriteLine("{0}", val);   
+            int res;
+            if (Int32.TryParse(val, out res))
+            {
+                raw.Add(res);
+                if (xr.GetAttribute("t") != null) isText.Add(true);
+                else isText.Add(false);
+            }
         }
     }
     else if (entry.FullName.Contains("sharedStrings"))
@@ -30,11 +38,33 @@ foreach (ZipArchiveEntry entry in archive.Entries)
         while (xr.Read())
         {
             string val = xr.Value;
-            if(val != string.Empty) Console.WriteLine("{0}", val);
+            if (val != string.Empty) sharedStrings.Add(val);
         }
     }
     xr.Close();
     sr.Close();
+}
+
+
+
+for (int i = 0; i < raw.Count; i++)
+{
+    int col = i % 3;
+    switch (col)
+    {
+        // The first name:
+        case 0:
+            
+            break;
+
+        // The second name:
+        case 1:
+            break;
+
+        // The amount of meetings:
+        case 2:
+            break;
+    }
 }
 
 // using (FileStream zipToOpen = new FileStream(@"C:\Users\jens\Downloads\Mappe1.xlsx", FileMode.Open))
