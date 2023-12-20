@@ -1,0 +1,15 @@
+C:\VSC_PRO_B\CSharp\011_VejlederTest\CreateXml\bin\Debug\net8.0\CreateXml.exe
+C:\VSC_PRO_B\CSharp\011_VejlederTest\CreateXml\bin\Debug\net8.0\CreateXml.deps.json
+C:\VSC_PRO_B\CSharp\011_VejlederTest\CreateXml\bin\Debug\net8.0\CreateXml.runtimeconfig.json
+C:\VSC_PRO_B\CSharp\011_VejlederTest\CreateXml\bin\Debug\net8.0\CreateXml.dll
+C:\VSC_PRO_B\CSharp\011_VejlederTest\CreateXml\bin\Debug\net8.0\CreateXml.pdb
+C:\VSC_PRO_B\CSharp\011_VejlederTest\CreateXml\obj\Debug\net8.0\CreateXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC_PRO_B\CSharp\011_VejlederTest\CreateXml\obj\Debug\net8.0\CreateXml.AssemblyInfoInputs.cache
+C:\VSC_PRO_B\CSharp\011_VejlederTest\CreateXml\obj\Debug\net8.0\CreateXml.AssemblyInfo.cs
+C:\VSC_PRO_B\CSharp\011_VejlederTest\CreateXml\obj\Debug\net8.0\CreateXml.csproj.CoreCompileInputs.cache
+C:\VSC_PRO_B\CSharp\011_VejlederTest\CreateXml\obj\Debug\net8.0\CreateXml.sourcelink.json
+C:\VSC_PRO_B\CSharp\011_VejlederTest\CreateXml\obj\Debug\net8.0\CreateXml.dll
+C:\VSC_PRO_B\CSharp\011_VejlederTest\CreateXml\obj\Debug\net8.0\refint\CreateXml.dll
+C:\VSC_PRO_B\CSharp\011_VejlederTest\CreateXml\obj\Debug\net8.0\CreateXml.pdb
+C:\VSC_PRO_B\CSharp\011_VejlederTest\CreateXml\obj\Debug\net8.0\CreateXml.genruntimeconfig.cache
+C:\VSC_PRO_B\CSharp\011_VejlederTest\CreateXml\obj\Debug\net8.0\ref\CreateXml.dll
