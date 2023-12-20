@@ -1,0 +1,15 @@
+C:\VSC_PRO_B\CSharp\011_VejlederTest\SelectSheet\obj\Debug\net8.0\SelectSheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC_PRO_B\CSharp\011_VejlederTest\SelectSheet\obj\Debug\net8.0\SelectSheet.AssemblyInfoInputs.cache
+C:\VSC_PRO_B\CSharp\011_VejlederTest\SelectSheet\obj\Debug\net8.0\SelectSheet.AssemblyInfo.cs
+C:\VSC_PRO_B\CSharp\011_VejlederTest\SelectSheet\obj\Debug\net8.0\SelectSheet.csproj.CoreCompileInputs.cache
+C:\VSC_PRO_B\CSharp\011_VejlederTest\SelectSheet\obj\Debug\net8.0\SelectSheet.sourcelink.json
+C:\VSC_PRO_B\CSharp\011_VejlederTest\SelectSheet\bin\Debug\net8.0\SelectSheet.exe
+C:\VSC_PRO_B\CSharp\011_VejlederTest\SelectSheet\bin\Debug\net8.0\SelectSheet.deps.json
+C:\VSC_PRO_B\CSharp\011_VejlederTest\SelectSheet\bin\Debug\net8.0\SelectSheet.runtimeconfig.json
+C:\VSC_PRO_B\CSharp\011_VejlederTest\SelectSheet\bin\Debug\net8.0\SelectSheet.dll
+C:\VSC_PRO_B\CSharp\011_VejlederTest\SelectSheet\bin\Debug\net8.0\SelectSheet.pdb
+C:\VSC_PRO_B\CSharp\011_VejlederTest\SelectSheet\obj\Debug\net8.0\SelectSheet.dll
+C:\VSC_PRO_B\CSharp\011_VejlederTest\SelectSheet\obj\Debug\net8.0\refint\SelectSheet.dll
+C:\VSC_PRO_B\CSharp\011_VejlederTest\SelectSheet\obj\Debug\net8.0\SelectSheet.pdb
+C:\VSC_PRO_B\CSharp\011_VejlederTest\SelectSheet\obj\Debug\net8.0\SelectSheet.genruntimeconfig.cache
+C:\VSC_PRO_B\CSharp\011_VejlederTest\SelectSheet\obj\Debug\net8.0\ref\SelectSheet.dll

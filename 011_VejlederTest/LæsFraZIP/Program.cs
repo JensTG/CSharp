@@ -10,6 +10,8 @@ string sheetID = "sheet2";
 FileStream zipArchive = new FileStream(zipPath, FileMode.OpenOrCreate);
 ZipArchive archive = new ZipArchive(zipArchive, ZipArchiveMode.Update);
 
+List<int> raw = new List<int>();
+List<bool> isText = new List<bool>();
 List<string> sharedStrings = new List<string>();
 
 foreach (ZipArchiveEntry entry in archive.Entries)
@@ -21,7 +23,13 @@ foreach (ZipArchiveEntry entry in archive.Entries)
         while (xr.Read())
         {
             string val = xr.Value;
-            if(val != string.Empty) Console.WriteLine("{0}", val);   
+            int res;
+            if (Int32.TryParse(val, out res))
+            {
+                raw.Add(res);
+                if (xr.GetAttribute("t") != null) isText.Add(true);
+                else isText.Add(false);
+            }
         }
     }
     else if (entry.FullName.Contains("sharedStrings"))
@@ -30,7 +38,7 @@ foreach (ZipArchiveEntry entry in archive.Entries)
         while (xr.Read())
         {
             string val = xr.Value;
-            if(val != string.Empty) Console.WriteLine("{0}", val);
+            if (val != string.Empty) sharedStrings.Add(val);
         }
     }
     xr.Close();
