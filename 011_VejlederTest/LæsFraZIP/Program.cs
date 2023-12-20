@@ -36,16 +36,3 @@ foreach (ZipArchiveEntry entry in archive.Entries)
     xr.Close();
     sr.Close();
 }
-
-// using (FileStream zipToOpen = new FileStream(@"C:\Users\jens\Downloads\Mappe1.xlsx", FileMode.Open))
-// {
-//     using (ZipArchive archive = new ZipArchive(zipToOpen, ZipArchiveMode.Update))
-//     {
-//         ZipArchiveEntry readmeEntry = archive.CreateEntry("Readme.txt");
-//         using (StreamWriter writer = new StreamWriter(readmeEntry.Open()))
-//         {
-//                 writer.WriteLine("Information about this package.");
-//                 writer.WriteLine("========================");
-//         }
-//     }
-// }
