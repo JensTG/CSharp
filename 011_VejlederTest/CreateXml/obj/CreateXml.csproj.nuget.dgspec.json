@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\VSC_PRO_B\\CSharp\\011_VejlederTest\\WriteToFile\\WriteToFile.csproj": {}
+    "C:\\VSC_PRO_B\\CSharp\\011_VejlederTest\\CreateXml\\CreateXml.csproj": {}
   },
   "projects": {
-    "C:\\VSC_PRO_B\\CSharp\\011_VejlederTest\\WriteToFile\\WriteToFile.csproj": {
+    "C:\\VSC_PRO_B\\CSharp\\011_VejlederTest\\CreateXml\\CreateXml.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VSC_PRO_B\\CSharp\\011_VejlederTest\\WriteToFile\\WriteToFile.csproj",
-        "projectName": "WriteToFile",
-        "projectPath": "C:\\VSC_PRO_B\\CSharp\\011_VejlederTest\\WriteToFile\\WriteToFile.csproj",
+        "projectUniqueName": "C:\\VSC_PRO_B\\CSharp\\011_VejlederTest\\CreateXml\\CreateXml.csproj",
+        "projectName": "CreateXml",
+        "projectPath": "C:\\VSC_PRO_B\\CSharp\\011_VejlederTest\\CreateXml\\CreateXml.csproj",
         "packagesPath": "C:\\Users\\jens\\.nuget\\packages\\",
-        "outputPath": "C:\\VSC_PRO_B\\CSharp\\011_VejlederTest\\WriteToFile\\obj\\",
+        "outputPath": "C:\\VSC_PRO_B\\CSharp\\011_VejlederTest\\CreateXml\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
