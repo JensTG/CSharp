@@ -6,7 +6,7 @@ List<char> alphabet = new List<char> { 'A', 'B', 'C', 'D', 'E' };
 int cols = 3;
 int rows = 10;
 List<string> cells = new List<string>();
-Dictionary<string, string> atts = new Dictionary<string, string> ();
+Dictionary<string, string> atts = new Dictionary<string, string>();
 string output = "";
 
 for (int r = 1; r < rows + 1; r++)
@@ -16,7 +16,7 @@ for (int r = 1; r < rows + 1; r++)
     {
         atts.Clear();
         string val = XmlNode.XmlString("v", (2 * c + 1).ToString());
-        if (c < 2)
+        if (c < 0)
         {
             atts.Add("r", alphabet[c] + r.ToString());
             atts.Add("t", "s");
@@ -27,7 +27,7 @@ for (int r = 1; r < rows + 1; r++)
             atts.Add("r", alphabet[c] + r.ToString());
             cells.Add(XmlNode.XmlString("c", atts, val));
         }
-        
+
     }
     atts.Clear();
     atts.Add("r", r.ToString());
@@ -35,7 +35,16 @@ for (int r = 1; r < rows + 1; r++)
     atts.Add("x14ac:dyDescent", "0.25");
     output += XmlNode.XmlString("row", atts, cells);
 }
-Console.WriteLine(output);
+output = XmlNode.XmlString("sheetData", output);
+
+string sheet = File.ReadAllText(Path.GetFullPath("SheetSkabelon.txt"));
+sheet = sheet.Replace("SIZE", "A1:" + alphabet[cols] + rows.ToString());
+sheet = sheet.Replace("SHEETDATA", output);
+
+Console.Clear();
+Console.ForegroundColor = ConsoleColor.DarkGreen;
+Console.WriteLine(sheet);
+Console.ResetColor();
 
 // <row r="2" spans="1:3" x14ac:dyDescent="0.25">
 //     <c r="A2" t="s">
