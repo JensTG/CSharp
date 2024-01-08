@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CreateXml")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac36f4082020c28f1bd8c27e8c423dbd27dbb07e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CreateXml")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CreateXml")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

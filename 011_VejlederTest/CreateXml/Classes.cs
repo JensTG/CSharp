@@ -1,4 +1,4 @@
-namespace XmlTest
+public namespace XmlTest
 {
     public static class XmlNode
     {
