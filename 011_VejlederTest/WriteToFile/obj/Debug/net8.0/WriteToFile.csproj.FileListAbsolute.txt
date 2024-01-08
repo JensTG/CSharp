@@ -1,0 +1,15 @@
+C:\VSC_PRO_B\CSharp\011_VejlederTest\WriteToFile\bin\Debug\net8.0\WriteToFile.exe
+C:\VSC_PRO_B\CSharp\011_VejlederTest\WriteToFile\bin\Debug\net8.0\WriteToFile.deps.json
+C:\VSC_PRO_B\CSharp\011_VejlederTest\WriteToFile\bin\Debug\net8.0\WriteToFile.runtimeconfig.json
+C:\VSC_PRO_B\CSharp\011_VejlederTest\WriteToFile\bin\Debug\net8.0\WriteToFile.dll
+C:\VSC_PRO_B\CSharp\011_VejlederTest\WriteToFile\bin\Debug\net8.0\WriteToFile.pdb
+C:\VSC_PRO_B\CSharp\011_VejlederTest\WriteToFile\obj\Debug\net8.0\WriteToFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC_PRO_B\CSharp\011_VejlederTest\WriteToFile\obj\Debug\net8.0\WriteToFile.AssemblyInfoInputs.cache
+C:\VSC_PRO_B\CSharp\011_VejlederTest\WriteToFile\obj\Debug\net8.0\WriteToFile.AssemblyInfo.cs
+C:\VSC_PRO_B\CSharp\011_VejlederTest\WriteToFile\obj\Debug\net8.0\WriteToFile.csproj.CoreCompileInputs.cache
+C:\VSC_PRO_B\CSharp\011_VejlederTest\WriteToFile\obj\Debug\net8.0\WriteToFile.sourcelink.json
+C:\VSC_PRO_B\CSharp\011_VejlederTest\WriteToFile\obj\Debug\net8.0\WriteToFile.dll
+C:\VSC_PRO_B\CSharp\011_VejlederTest\WriteToFile\obj\Debug\net8.0\refint\WriteToFile.dll
+C:\VSC_PRO_B\CSharp\011_VejlederTest\WriteToFile\obj\Debug\net8.0\WriteToFile.pdb
+C:\VSC_PRO_B\CSharp\011_VejlederTest\WriteToFile\obj\Debug\net8.0\WriteToFile.genruntimeconfig.cache
+C:\VSC_PRO_B\CSharp\011_VejlederTest\WriteToFile\obj\Debug\net8.0\ref\WriteToFile.dll

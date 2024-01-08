@@ -2,7 +2,7 @@
 using System.Globalization;
 using XmlTest;
 
-List<char> alphabet = new List<char> { 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H' };
+List<char> alphabet = new List<char> { 'A', 'B', 'C', 'D', 'E' };
 int cols = 3;
 int rows = 10;
 List<string> cells = new List<string>();
