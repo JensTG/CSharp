@@ -1,0 +1,15 @@
+C:\VSC_PRO_B\CSharp\011_VejlederTest\WriteXml\bin\Debug\net8.0\WriteXml.exe
+C:\VSC_PRO_B\CSharp\011_VejlederTest\WriteXml\bin\Debug\net8.0\WriteXml.deps.json
+C:\VSC_PRO_B\CSharp\011_VejlederTest\WriteXml\bin\Debug\net8.0\WriteXml.runtimeconfig.json
+C:\VSC_PRO_B\CSharp\011_VejlederTest\WriteXml\bin\Debug\net8.0\WriteXml.dll
+C:\VSC_PRO_B\CSharp\011_VejlederTest\WriteXml\bin\Debug\net8.0\WriteXml.pdb
+C:\VSC_PRO_B\CSharp\011_VejlederTest\WriteXml\obj\Debug\net8.0\WriteXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC_PRO_B\CSharp\011_VejlederTest\WriteXml\obj\Debug\net8.0\WriteXml.AssemblyInfoInputs.cache
+C:\VSC_PRO_B\CSharp\011_VejlederTest\WriteXml\obj\Debug\net8.0\WriteXml.AssemblyInfo.cs
+C:\VSC_PRO_B\CSharp\011_VejlederTest\WriteXml\obj\Debug\net8.0\WriteXml.csproj.CoreCompileInputs.cache
+C:\VSC_PRO_B\CSharp\011_VejlederTest\WriteXml\obj\Debug\net8.0\WriteXml.sourcelink.json
+C:\VSC_PRO_B\CSharp\011_VejlederTest\WriteXml\obj\Debug\net8.0\WriteXml.dll
+C:\VSC_PRO_B\CSharp\011_VejlederTest\WriteXml\obj\Debug\net8.0\refint\WriteXml.dll
+C:\VSC_PRO_B\CSharp\011_VejlederTest\WriteXml\obj\Debug\net8.0\WriteXml.pdb
+C:\VSC_PRO_B\CSharp\011_VejlederTest\WriteXml\obj\Debug\net8.0\WriteXml.genruntimeconfig.cache
+C:\VSC_PRO_B\CSharp\011_VejlederTest\WriteXml\obj\Debug\net8.0\ref\WriteXml.dll
