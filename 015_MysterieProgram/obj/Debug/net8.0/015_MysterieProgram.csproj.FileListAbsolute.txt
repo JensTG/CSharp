@@ -1,0 +1,15 @@
+C:\VSC_PRO_B\CSharp\015_MysterieProgram\bin\Debug\net8.0\015_MysterieProgram.exe
+C:\VSC_PRO_B\CSharp\015_MysterieProgram\bin\Debug\net8.0\015_MysterieProgram.deps.json
+C:\VSC_PRO_B\CSharp\015_MysterieProgram\bin\Debug\net8.0\015_MysterieProgram.runtimeconfig.json
+C:\VSC_PRO_B\CSharp\015_MysterieProgram\bin\Debug\net8.0\015_MysterieProgram.dll
+C:\VSC_PRO_B\CSharp\015_MysterieProgram\bin\Debug\net8.0\015_MysterieProgram.pdb
+C:\VSC_PRO_B\CSharp\015_MysterieProgram\obj\Debug\net8.0\015_MysterieProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC_PRO_B\CSharp\015_MysterieProgram\obj\Debug\net8.0\015_MysterieProgram.AssemblyInfoInputs.cache
+C:\VSC_PRO_B\CSharp\015_MysterieProgram\obj\Debug\net8.0\015_MysterieProgram.AssemblyInfo.cs
+C:\VSC_PRO_B\CSharp\015_MysterieProgram\obj\Debug\net8.0\015_MysterieProgram.csproj.CoreCompileInputs.cache
+C:\VSC_PRO_B\CSharp\015_MysterieProgram\obj\Debug\net8.0\015_MysterieProgram.sourcelink.json
+C:\VSC_PRO_B\CSharp\015_MysterieProgram\obj\Debug\net8.0\015_MysterieProgram.dll
+C:\VSC_PRO_B\CSharp\015_MysterieProgram\obj\Debug\net8.0\refint\015_MysterieProgram.dll
+C:\VSC_PRO_B\CSharp\015_MysterieProgram\obj\Debug\net8.0\015_MysterieProgram.pdb
+C:\VSC_PRO_B\CSharp\015_MysterieProgram\obj\Debug\net8.0\015_MysterieProgram.genruntimeconfig.cache
+C:\VSC_PRO_B\CSharp\015_MysterieProgram\obj\Debug\net8.0\ref\015_MysterieProgram.dll

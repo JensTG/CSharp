@@ -1,0 +1,15 @@
+C:\VSC_PRO_B\CSharp\016_ForLoops\bin\Debug\net8.0\016_ForLoops.exe
+C:\VSC_PRO_B\CSharp\016_ForLoops\bin\Debug\net8.0\016_ForLoops.deps.json
+C:\VSC_PRO_B\CSharp\016_ForLoops\bin\Debug\net8.0\016_ForLoops.runtimeconfig.json
+C:\VSC_PRO_B\CSharp\016_ForLoops\bin\Debug\net8.0\016_ForLoops.dll
+C:\VSC_PRO_B\CSharp\016_ForLoops\bin\Debug\net8.0\016_ForLoops.pdb
+C:\VSC_PRO_B\CSharp\016_ForLoops\obj\Debug\net8.0\016_ForLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC_PRO_B\CSharp\016_ForLoops\obj\Debug\net8.0\016_ForLoops.AssemblyInfoInputs.cache
+C:\VSC_PRO_B\CSharp\016_ForLoops\obj\Debug\net8.0\016_ForLoops.AssemblyInfo.cs
+C:\VSC_PRO_B\CSharp\016_ForLoops\obj\Debug\net8.0\016_ForLoops.csproj.CoreCompileInputs.cache
+C:\VSC_PRO_B\CSharp\016_ForLoops\obj\Debug\net8.0\016_ForLoops.sourcelink.json
+C:\VSC_PRO_B\CSharp\016_ForLoops\obj\Debug\net8.0\016_ForLoops.dll
+C:\VSC_PRO_B\CSharp\016_ForLoops\obj\Debug\net8.0\refint\016_ForLoops.dll
+C:\VSC_PRO_B\CSharp\016_ForLoops\obj\Debug\net8.0\016_ForLoops.pdb
+C:\VSC_PRO_B\CSharp\016_ForLoops\obj\Debug\net8.0\016_ForLoops.genruntimeconfig.cache
+C:\VSC_PRO_B\CSharp\016_ForLoops\obj\Debug\net8.0\ref\016_ForLoops.dll
