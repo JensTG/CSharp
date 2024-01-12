@@ -1,0 +1,21 @@
+class Program {
+    static async Task Main() {
+        int terningeSlag = 635;
+        Task<int> regneTask = Task<int>.Run(RegnEtEllerAndetUd(4));
+
+        ...
+        ...
+        ...
+
+        int resultat = await regneTask;
+
+        ...
+        ...
+        
+    }
+
+    static Task<int> RegnEtEllerAndetUd(int input) {
+        ...
+        return output;
+    }
+}

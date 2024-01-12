@@ -1,0 +1,15 @@
+C:\VSC_PRO_B\CSharp\017_PiProgram\obj\Debug\net8.0\017_PiProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC_PRO_B\CSharp\017_PiProgram\obj\Debug\net8.0\017_PiProgram.AssemblyInfoInputs.cache
+C:\VSC_PRO_B\CSharp\017_PiProgram\obj\Debug\net8.0\017_PiProgram.AssemblyInfo.cs
+C:\VSC_PRO_B\CSharp\017_PiProgram\obj\Debug\net8.0\017_PiProgram.csproj.CoreCompileInputs.cache
+C:\VSC_PRO_B\CSharp\017_PiProgram\obj\Debug\net8.0\017_PiProgram.sourcelink.json
+C:\VSC_PRO_B\CSharp\017_PiProgram\bin\Debug\net8.0\017_PiProgram.exe
+C:\VSC_PRO_B\CSharp\017_PiProgram\bin\Debug\net8.0\017_PiProgram.deps.json
+C:\VSC_PRO_B\CSharp\017_PiProgram\bin\Debug\net8.0\017_PiProgram.runtimeconfig.json
+C:\VSC_PRO_B\CSharp\017_PiProgram\bin\Debug\net8.0\017_PiProgram.dll
+C:\VSC_PRO_B\CSharp\017_PiProgram\bin\Debug\net8.0\017_PiProgram.pdb
+C:\VSC_PRO_B\CSharp\017_PiProgram\obj\Debug\net8.0\017_PiProgram.dll
+C:\VSC_PRO_B\CSharp\017_PiProgram\obj\Debug\net8.0\refint\017_PiProgram.dll
+C:\VSC_PRO_B\CSharp\017_PiProgram\obj\Debug\net8.0\017_PiProgram.pdb
+C:\VSC_PRO_B\CSharp\017_PiProgram\obj\Debug\net8.0\017_PiProgram.genruntimeconfig.cache
+C:\VSC_PRO_B\CSharp\017_PiProgram\obj\Debug\net8.0\ref\017_PiProgram.dll

@@ -1,0 +1,15 @@
+C:\VSC_PRO_B\CSharp\018_MultipleAsync\bin\Debug\net8.0\018_MultipleAsync.exe
+C:\VSC_PRO_B\CSharp\018_MultipleAsync\bin\Debug\net8.0\018_MultipleAsync.deps.json
+C:\VSC_PRO_B\CSharp\018_MultipleAsync\bin\Debug\net8.0\018_MultipleAsync.runtimeconfig.json
+C:\VSC_PRO_B\CSharp\018_MultipleAsync\bin\Debug\net8.0\018_MultipleAsync.dll
+C:\VSC_PRO_B\CSharp\018_MultipleAsync\bin\Debug\net8.0\018_MultipleAsync.pdb
+C:\VSC_PRO_B\CSharp\018_MultipleAsync\obj\Debug\net8.0\018_MultipleAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC_PRO_B\CSharp\018_MultipleAsync\obj\Debug\net8.0\018_MultipleAsync.AssemblyInfoInputs.cache
+C:\VSC_PRO_B\CSharp\018_MultipleAsync\obj\Debug\net8.0\018_MultipleAsync.AssemblyInfo.cs
+C:\VSC_PRO_B\CSharp\018_MultipleAsync\obj\Debug\net8.0\018_MultipleAsync.csproj.CoreCompileInputs.cache
+C:\VSC_PRO_B\CSharp\018_MultipleAsync\obj\Debug\net8.0\018_MultipleAsync.sourcelink.json
+C:\VSC_PRO_B\CSharp\018_MultipleAsync\obj\Debug\net8.0\018_MultipleAsync.dll
+C:\VSC_PRO_B\CSharp\018_MultipleAsync\obj\Debug\net8.0\refint\018_MultipleAsync.dll
+C:\VSC_PRO_B\CSharp\018_MultipleAsync\obj\Debug\net8.0\018_MultipleAsync.pdb
+C:\VSC_PRO_B\CSharp\018_MultipleAsync\obj\Debug\net8.0\018_MultipleAsync.genruntimeconfig.cache
+C:\VSC_PRO_B\CSharp\018_MultipleAsync\obj\Debug\net8.0\ref\018_MultipleAsync.dll
