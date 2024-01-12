@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("018_MultipleAsync")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76e1b9ae56fe6a948c50e03a91d294da13ab2c74")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+894d6ca156d068d481f6c6c76b4f6256146d3c1e")]
 [assembly: System.Reflection.AssemblyProductAttribute("018_MultipleAsync")]
 [assembly: System.Reflection.AssemblyTitleAttribute("018_MultipleAsync")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
