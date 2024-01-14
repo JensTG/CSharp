@@ -1,0 +1,5 @@
+C:\VSC_PRO_B\CSharp\019_ProjectEuler\obj\Debug\net8.0\019_ProjectEuler.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC_PRO_B\CSharp\019_ProjectEuler\obj\Debug\net8.0\019_ProjectEuler.AssemblyInfoInputs.cache
+C:\VSC_PRO_B\CSharp\019_ProjectEuler\obj\Debug\net8.0\019_ProjectEuler.AssemblyInfo.cs
+C:\VSC_PRO_B\CSharp\019_ProjectEuler\obj\Debug\net8.0\019_ProjectEuler.csproj.CoreCompileInputs.cache
+C:\VSC_PRO_B\CSharp\019_ProjectEuler\obj\Debug\net8.0\019_ProjectEuler.sourcelink.json
