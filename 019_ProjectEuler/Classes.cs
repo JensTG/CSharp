@@ -2,10 +2,13 @@ namespace ProjectEuler
 {
     public static class Funcs
     {
-        public static bool IsPalindrome(long p)
+        public static bool IsPalindrome(string word)
         {
-            bool palindrome = true;
-            return palindrome;
+            bool isPalindrome = true;
+            for(int i = 0; i< word.Length; i++) {
+                if(word[i] != word[word.Length - 1 - i]) isPalindrome = false;
+            }
+            return isPalindrome;
         }
 
         public static bool IsPrime(long p)

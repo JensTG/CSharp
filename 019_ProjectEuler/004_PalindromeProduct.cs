@@ -1,7 +1,7 @@
-using System;
-
 namespace ProjectEuler
 {
+    using static Funcs;
+    using static System.Console;
     class PalindromeProduct
     {
         static void Main()
@@ -12,9 +12,11 @@ namespace ProjectEuler
             {
                 for (int j = 1; j < 1000; j++)
                 {
-                    Funcs.IsPalindrome(2);
+                    if (IsPalindrome((i * j).ToString())) largest = (i * j) > largest ? (i * j) : largest;
                 }
             }
+
+            WriteLine("Largest palindrome: {0}", largest);
         }
     }
 }

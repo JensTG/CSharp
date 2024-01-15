@@ -1,6 +1,9 @@
 using System;
+
 namespace ProjectEuler
 {
+    using static Funcs;
+    using static System.Console;
     class 
     {
         static void Main()
