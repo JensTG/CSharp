@@ -1,0 +1,15 @@
+C:\VSC_PRO_B\CSharp\020_TesniemOpgaver\bin\Debug\net8.0\020_TesniemOpgaver.exe
+C:\VSC_PRO_B\CSharp\020_TesniemOpgaver\bin\Debug\net8.0\020_TesniemOpgaver.deps.json
+C:\VSC_PRO_B\CSharp\020_TesniemOpgaver\bin\Debug\net8.0\020_TesniemOpgaver.runtimeconfig.json
+C:\VSC_PRO_B\CSharp\020_TesniemOpgaver\bin\Debug\net8.0\020_TesniemOpgaver.dll
+C:\VSC_PRO_B\CSharp\020_TesniemOpgaver\bin\Debug\net8.0\020_TesniemOpgaver.pdb
+C:\VSC_PRO_B\CSharp\020_TesniemOpgaver\obj\Debug\net8.0\020_TesniemOpgaver.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC_PRO_B\CSharp\020_TesniemOpgaver\obj\Debug\net8.0\020_TesniemOpgaver.AssemblyInfoInputs.cache
+C:\VSC_PRO_B\CSharp\020_TesniemOpgaver\obj\Debug\net8.0\020_TesniemOpgaver.AssemblyInfo.cs
+C:\VSC_PRO_B\CSharp\020_TesniemOpgaver\obj\Debug\net8.0\020_TesniemOpgaver.csproj.CoreCompileInputs.cache
+C:\VSC_PRO_B\CSharp\020_TesniemOpgaver\obj\Debug\net8.0\020_TesniemOpgaver.sourcelink.json
+C:\VSC_PRO_B\CSharp\020_TesniemOpgaver\obj\Debug\net8.0\020_TesniemOpgaver.dll
+C:\VSC_PRO_B\CSharp\020_TesniemOpgaver\obj\Debug\net8.0\refint\020_TesniemOpgaver.dll
+C:\VSC_PRO_B\CSharp\020_TesniemOpgaver\obj\Debug\net8.0\020_TesniemOpgaver.pdb
+C:\VSC_PRO_B\CSharp\020_TesniemOpgaver\obj\Debug\net8.0\020_TesniemOpgaver.genruntimeconfig.cache
+C:\VSC_PRO_B\CSharp\020_TesniemOpgaver\obj\Debug\net8.0\ref\020_TesniemOpgaver.dll

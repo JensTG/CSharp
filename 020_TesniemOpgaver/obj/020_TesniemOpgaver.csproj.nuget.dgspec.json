@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\VSC_PRO_B\\CSharp\\019_ProjectEuler\\019_ProjectEuler.csproj": {}
+    "C:\\VSC_PRO_B\\CSharp\\020_TesniemOpgaver\\020_TesniemOpgaver.csproj": {}
   },
   "projects": {
-    "C:\\VSC_PRO_B\\CSharp\\019_ProjectEuler\\019_ProjectEuler.csproj": {
+    "C:\\VSC_PRO_B\\CSharp\\020_TesniemOpgaver\\020_TesniemOpgaver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VSC_PRO_B\\CSharp\\019_ProjectEuler\\019_ProjectEuler.csproj",
-        "projectName": "019_ProjectEuler",
-        "projectPath": "C:\\VSC_PRO_B\\CSharp\\019_ProjectEuler\\019_ProjectEuler.csproj",
+        "projectUniqueName": "C:\\VSC_PRO_B\\CSharp\\020_TesniemOpgaver\\020_TesniemOpgaver.csproj",
+        "projectName": "020_TesniemOpgaver",
+        "projectPath": "C:\\VSC_PRO_B\\CSharp\\020_TesniemOpgaver\\020_TesniemOpgaver.csproj",
         "packagesPath": "C:\\Users\\jens\\.nuget\\packages\\",
-        "outputPath": "C:\\VSC_PRO_B\\CSharp\\019_ProjectEuler\\obj\\",
+        "outputPath": "C:\\VSC_PRO_B\\CSharp\\020_TesniemOpgaver\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jens\\AppData\\Roaming\\NuGet\\NuGet.Config",
