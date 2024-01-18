@@ -52,7 +52,7 @@ public static class Opgaver
             WriteLine($"{ins[0]} + {ins[1]} = {ins[0] + ins[1]}\n");
 
             WriteLine("Would you like to quit? (Y/N)");
-        } while (ReadKey().Key == ConsoleKey.Y);
+        } while (ReadKey().Key != ConsoleKey.Y);
     }
     public static void GuessGame()
     {
@@ -76,7 +76,7 @@ public static class Opgaver
         int n = int.Parse(ReadLine());
         Clear();
         Write(n.ToString().PadRight(6));
-        for (int i = 0; i < n && i < WindowWidth; i++)
+        for (int i = 0; i < Convert.ToInt32(n/5) && i < WindowWidth - 7; i++)
         {
             Write('█');
         }
@@ -87,7 +87,7 @@ public static class Opgaver
             if (n % 2 == 0) n /= 2;
             else n = n * 3 + 1;
             Write(n.ToString().PadRight(6));
-            for (int i = 0; i < n && i < WindowWidth; i++)
+            for (int i = 0; i < Convert.ToInt32(n/5) && i < WindowWidth - 7; i++)
             {
                 Write('█');
             }
