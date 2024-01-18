@@ -1,0 +1,15 @@
+C:\VSC_PRO_B\CSharp\021_SpaceInvaders\bin\Debug\net8.0\021_SpaceInvaders.exe
+C:\VSC_PRO_B\CSharp\021_SpaceInvaders\bin\Debug\net8.0\021_SpaceInvaders.deps.json
+C:\VSC_PRO_B\CSharp\021_SpaceInvaders\bin\Debug\net8.0\021_SpaceInvaders.runtimeconfig.json
+C:\VSC_PRO_B\CSharp\021_SpaceInvaders\bin\Debug\net8.0\021_SpaceInvaders.dll
+C:\VSC_PRO_B\CSharp\021_SpaceInvaders\bin\Debug\net8.0\021_SpaceInvaders.pdb
+C:\VSC_PRO_B\CSharp\021_SpaceInvaders\obj\Debug\net8.0\021_SpaceInvaders.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC_PRO_B\CSharp\021_SpaceInvaders\obj\Debug\net8.0\021_SpaceInvaders.AssemblyInfoInputs.cache
+C:\VSC_PRO_B\CSharp\021_SpaceInvaders\obj\Debug\net8.0\021_SpaceInvaders.AssemblyInfo.cs
+C:\VSC_PRO_B\CSharp\021_SpaceInvaders\obj\Debug\net8.0\021_SpaceInvaders.csproj.CoreCompileInputs.cache
+C:\VSC_PRO_B\CSharp\021_SpaceInvaders\obj\Debug\net8.0\021_SpaceInvaders.sourcelink.json
+C:\VSC_PRO_B\CSharp\021_SpaceInvaders\obj\Debug\net8.0\021_SpaceInvaders.dll
+C:\VSC_PRO_B\CSharp\021_SpaceInvaders\obj\Debug\net8.0\refint\021_SpaceInvaders.dll
+C:\VSC_PRO_B\CSharp\021_SpaceInvaders\obj\Debug\net8.0\021_SpaceInvaders.pdb
+C:\VSC_PRO_B\CSharp\021_SpaceInvaders\obj\Debug\net8.0\021_SpaceInvaders.genruntimeconfig.cache
+C:\VSC_PRO_B\CSharp\021_SpaceInvaders\obj\Debug\net8.0\ref\021_SpaceInvaders.dll
