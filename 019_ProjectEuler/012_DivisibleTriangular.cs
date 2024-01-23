@@ -9,10 +9,11 @@ namespace ProjectEuler
     {
         static void Main()
         {
-            List<long> divs = Divisors(28);
-            foreach(long l in divs) {
-                WriteLine(l);
-            }
+            Clear();
+            int divs = 0;
+            int i = 1;
+            for(; divs <= 500; i++) {divs = Divisors((long)(0.5 * (i * i) + 0.5 * i));};
+            WriteLine(">500 Divisors: {0}", i);
         }
     }
 }

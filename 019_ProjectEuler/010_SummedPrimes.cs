@@ -1,6 +1,7 @@
 namespace ProjectEuler
 {
     using System.Collections.Generic;
+    using System;
     using static System.Console;
     class SummedPrimes
     {
@@ -9,7 +10,7 @@ namespace ProjectEuler
             List<int> primes = new List<int> { 2 };
             long sum = 2;
             int i = 2;
-            Start:
+        Start:
             for (; i < 2000000; i++)
             {
                 foreach (int prime in primes)
@@ -19,6 +20,8 @@ namespace ProjectEuler
                         i++;
                         goto Start;
                     }
+                    if (prime > Math.Round(Math.Sqrt(i)))
+                        break;
                 }
                 sum += i;
                 primes.Add(i);

@@ -29,22 +29,16 @@ namespace ProjectEuler
             return prime;
         }
 
-        public static long Triangular(long t)
+        public static int Divisors(long d)
         {
-            return (long)(0.5 * (t * t) + 0.5 * t);
-        }
-
-        public static List<long> Divisors(long d)
-        {
-            List<long> divs = new List<long> { d };
-            for (long i = d % 2 == 0 ? d / 2 : (d + 1) / 2; i > 0;)
+            // Find all primes and multiply sqrt(d)
+            int divs = 2;
+            for (long i = d % 2 == 0 ? d / 2 : (d + 1) / 2; i > 1; i--)
             {
                 if (d % i == 0)
                 {
-                    divs.Add(i);
-                    i = i % 2 == 0 ? i / 2 : (i + 1) / 2;
+                    divs++;
                 }
-                else i--;
             }
             return divs;
         }
