@@ -33,7 +33,7 @@ namespace ProjectEuler
         {
             // Find all primes and multiply sqrt(d)
             int divs = 2;
-            for (long i = d % 2 == 0 ? d / 2 : (d + 1) / 2; i > 1; i--)
+            for (double i = Math.Sqrt(d); i > 1; i--)
             {
                 if (d % i == 0)
                 {

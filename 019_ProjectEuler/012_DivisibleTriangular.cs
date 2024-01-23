@@ -11,9 +11,14 @@ namespace ProjectEuler
         {
             Clear();
             int divs = 0;
-            int i = 1;
-            for(; divs <= 500; i++) {divs = Divisors((long)(0.5 * (i * i) + 0.5 * i));};
-            WriteLine(">500 Divisors: {0}", i);
+            long n = 0;
+            for (int i = 1; divs <= 500; i++)
+            {
+                n += i;
+                divs = Divisors(n);
+                WriteLine(divs);
+            };
+            WriteLine(">500 Divisors: {0}", n);
         }
     }
 }
