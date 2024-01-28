@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _019_ProjectEuler
-build_property.ProjectDir = C:\VSC_PRO_B\CSharp\019_ProjectEuler\
+build_property.ProjectDir = c:\VSC_PRO_B\CSharp\019_ProjectEuler\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
