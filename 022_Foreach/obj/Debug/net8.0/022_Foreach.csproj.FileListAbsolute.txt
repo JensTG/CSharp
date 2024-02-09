@@ -1,0 +1,15 @@
+C:\VSC_PRO_B\CSharp\022_Foreach\bin\Debug\net8.0\022_Foreach.exe
+C:\VSC_PRO_B\CSharp\022_Foreach\bin\Debug\net8.0\022_Foreach.deps.json
+C:\VSC_PRO_B\CSharp\022_Foreach\bin\Debug\net8.0\022_Foreach.runtimeconfig.json
+C:\VSC_PRO_B\CSharp\022_Foreach\bin\Debug\net8.0\022_Foreach.dll
+C:\VSC_PRO_B\CSharp\022_Foreach\bin\Debug\net8.0\022_Foreach.pdb
+C:\VSC_PRO_B\CSharp\022_Foreach\obj\Debug\net8.0\022_Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC_PRO_B\CSharp\022_Foreach\obj\Debug\net8.0\022_Foreach.AssemblyInfoInputs.cache
+C:\VSC_PRO_B\CSharp\022_Foreach\obj\Debug\net8.0\022_Foreach.AssemblyInfo.cs
+C:\VSC_PRO_B\CSharp\022_Foreach\obj\Debug\net8.0\022_Foreach.csproj.CoreCompileInputs.cache
+C:\VSC_PRO_B\CSharp\022_Foreach\obj\Debug\net8.0\022_Foreach.sourcelink.json
+C:\VSC_PRO_B\CSharp\022_Foreach\obj\Debug\net8.0\022_Foreach.dll
+C:\VSC_PRO_B\CSharp\022_Foreach\obj\Debug\net8.0\refint\022_Foreach.dll
+C:\VSC_PRO_B\CSharp\022_Foreach\obj\Debug\net8.0\022_Foreach.pdb
+C:\VSC_PRO_B\CSharp\022_Foreach\obj\Debug\net8.0\022_Foreach.genruntimeconfig.cache
+C:\VSC_PRO_B\CSharp\022_Foreach\obj\Debug\net8.0\ref\022_Foreach.dll
